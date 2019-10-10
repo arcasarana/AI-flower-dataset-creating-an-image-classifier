@@ -1,2 +1,3 @@
-# AI-flower-dataset-creating-an-image-classifier
-I work through a Jupyter notebook and implement a deep learning image classifier with PyTorch on a flower dataset.  Then, with the deep neural network trained, I convert it into an application for others to use.
+# AI Programming with Python Project
+
+Project code for Udacity's AI Programming with Python Nanodegree program. In this project, students first develop code for an image classifier built with PyTorch, then convert it into a command line application.
